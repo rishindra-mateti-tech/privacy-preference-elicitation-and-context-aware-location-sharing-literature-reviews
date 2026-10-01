@@ -17,7 +17,7 @@ The collection investigates empirical human-centric privacy preference elicitati
 ## Repository Structure
 
 ```text
-Privacy-and-Access-Control-Analysis/
+privacy-preference-elicitation-and-context-aware-location-sharing-literature-reviews/
 |
 |-- PAC_PR1_Personality_Privacy_Preferences.pdf     # Literature review: personality-based privacy elicitation
 |-- PAC_PR2_Location_Sharing_Privacy.pdf            # Literature review: context factors in location disclosure
@@ -55,7 +55,7 @@ Privacy-and-Access-Control-Analysis/
   title = {Privacy and Access Control: Systems Security and Privacy Preference Modeling},
   year = {2025},
   institution = {Wright State University},
-  url = {https://github.com/rishindra-mateti-tech/PAC-Security-and-Privacy-Analysis}
+  url = {https://github.com/rishindra-mateti-tech/privacy-preference-elicitation-and-context-aware-location-sharing-literature-reviews}
 }
 ```
 
